@@ -28,3 +28,5 @@ permalink: /jams/
 | To Do          | Up Next         | Polish                                         |
 | -------------- | --------------- | ---------------------------------------------- |
 | First Playable | Rules & Systems | Graphics, Visual Flair, Animations, Audio, ... |
+
+[Trello Template](https://trello.com/b/jKktAt0e/game-jams/mellofnd/recommend)
