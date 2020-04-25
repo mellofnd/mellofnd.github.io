@@ -1,1 +1,15 @@
-theme: jekyll-theme-minimal
+title: Felipe Mello
+author:
+  name: Felipe Mello
+
+show_excerpts: false
+
+minima:
+  date_format: "%b %-d, %Y"
+
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-redirect-from
