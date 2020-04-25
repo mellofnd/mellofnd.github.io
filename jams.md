@@ -12,11 +12,19 @@ permalink: /jams/
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScpZnkM6T4LCP6ISlEiK_rQMRKHEd_EgdaIdIxvQEVOhIgzKg/viewform?embedded=true" width="640" height="1356" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdN_RYg2598_SZGWf3px-BxBgXU5_ekROwQm-jZvQth93RgZA/viewform?embedded=true" width="640" height="1126" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdN_RYg2598_SZGWf3px-BxBgXU5_ekROwQm-jZvQth93RgZA/viewform?embedded=true" width="640" height="1261" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## Gameplay Loop
 
 - Once the first playable is ready
 - Does the idea call for a stronger loop?
-- Does it work with a highscore and a leaderboard?
+- Does it work with a high score and a leaderboard?
 - Should you make a campaign mode?
+
+
+
+## Trello
+
+| To Do          | Up Next         | Polish                                         |
+| -------------- | --------------- | ---------------------------------------------- |
+| First Playable | Rules & Systems | Graphics, Visual Flair, Animations, Audio, ... |
