@@ -1,9 +1,8 @@
 ---
 layout: page
+title: Game Jam Ideas
 permalink: /jams/
 ---
-
-## Ideas
 
 - [Thesaurus](https://www.thesaurus.com/noresult?term=)
 - [Past LudumDare Themes](https://ldjam.com/events/ludum-dare/37/theme)
