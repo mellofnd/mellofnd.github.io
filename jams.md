@@ -25,8 +25,11 @@ permalink: /jams/
 
 ## Trello
 
-| To Do          | Up Next         | Polish                                         |
-| -------------- | --------------- | ---------------------------------------------- |
-| First Playable | Rules & Systems | Graphics, Visual Flair, Animations, Audio, ... |
+| To Do                       | Up Next                                 | Polish                           |
+| --------------------------- | --------------------------------------- | -------------------------------- |
+| First Playable              | Rules & Systems                         | Graphics, Animations, Audio, ... |
+| Define Win/Defeat Condition | Add a High Score Leaderboard            |                                  |
+| Add Debug Track Text        | Create Game Save System                 |                                  |
+|                             | Create a Game Director to Manage Events |                                  |
 
 [Trello Template](https://trello.com/b/jKktAt0e/game-jams/mellofnd/recommend)
